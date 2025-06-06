@@ -24,5 +24,5 @@ A simple Python-based USSD simulation system for registering miners using a comm
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/ussd-miner-registration.git
+   git clone https://github.com/webby21/python-Ussd.git
    cd ussd-miner-registration
